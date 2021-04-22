@@ -1,5 +1,5 @@
 # Hackintosh on ASUS Z490 A PRIME - Big Sur release
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true) <br>
 OS Version: MacOS Big Sur 11.2.2
 
 Current Bootloader: OpenCore 
